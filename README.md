@@ -1,4 +1,3 @@
-# Rayyan-developer
 # 👋 Hi, I'm Rayyan
 
 🎓 BCA Student | 💻 Aspiring Web Developer | 🌱 Learning Every Day
